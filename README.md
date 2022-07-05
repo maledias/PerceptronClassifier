@@ -1,0 +1,3 @@
+# Perceptron Classifier
+
+An implementatin of the Perceptron Classifier based on the [Python Machine Learning book](https://www.amazon.com.br/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319/ref=asc_df_1801819319/?tag=googleshopp00-20&linkCode=df0&hvadid=379693248429&hvpos=&hvnetw=g&hvrand=12837387430523309039&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001767&hvtargid=pla-1763569602912&psc=1).
